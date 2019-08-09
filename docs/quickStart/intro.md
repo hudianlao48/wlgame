@@ -4,7 +4,7 @@
 
 在需要调用JS接口的页面引入如下JS文件，（支持https）:
 
-http://domain/wlgame.js
+http://domain/wlgamebridge.js
 
 ## 步骤2：通过config接口注入权限验证配置
 
