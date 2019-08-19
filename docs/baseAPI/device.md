@@ -8,7 +8,7 @@
 设置屏幕亮度（0 ~ 1），例如：
 
 ```
-wlgame.device.brightness = 0.5
+wlGameBridge.device.brightness = 0.5
 ```
 
 ## wlgame.device.volume
@@ -16,7 +16,7 @@ wlgame.device.brightness = 0.5
 设置设备音量（0 ~ 1），例如：
 
 ```
-wlgame.device.volume = 0.5
+wlGameBridge.device.volume = 0.5
 ```
 
 ## wlgame.device.orientation
@@ -24,6 +24,6 @@ wlgame.device.volume = 0.5
 设置屏幕方向（ portrait , landscape ），例如：
 
 ```
-wlgame.device.orientation = 'portrait'
+wlGameBridge.device.orientation = 'portrait'
 ```
 
